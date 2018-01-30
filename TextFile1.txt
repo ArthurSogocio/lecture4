@@ -1,0 +1,10 @@
+This is text file 1. 
+
+
+
+Edit 1: I want to die :^)
+Edit 1: Edit Text File in maxter
+Edit 2: Branch 1 Edit
+
+CONFLICT
+conflict here
